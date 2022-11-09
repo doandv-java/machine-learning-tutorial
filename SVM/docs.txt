@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/prashant111/svm-classifier-tutorial/notebook
+https://phamdinhkhanh.github.io/deepai-book/ch_ml/SVM.html
+https://scikit-learn.org/stable/modules/svm.html
+https://machinelearningcoban.com/2017/04/09/smv/
